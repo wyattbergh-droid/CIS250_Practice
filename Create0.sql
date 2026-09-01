@@ -4,7 +4,7 @@
 --This practice assignment has two steps
 --1- Connect to your database in Azure Data Studio by following the instructions in the "Using Azure Data Studio" guide in Canvas
 --2- Edit the below code to replace Your Name Here with your name (Leave the quote marks)
-SELECT 'Your Name Here' as Name FROM Practice;
+SELECT 'Wyatt Bergh' as Name FROM Practice;
 
 
 --To test your code just follow these steps
